@@ -15,13 +15,13 @@
 
 3.公司員工使用後台管理系統，維護同意書版本並調閱、補上傳、列印同意書。
 
-三、所負責的項目與使用的技術:
+三、負責的項目與使用技術:
 
 1.同意書電子檔Web Service : 使用ASP.NET Web Service、Microsoft.ReportViewer.WebForms元件開發產生同意書電子檔以及上傳簽署檔案之服務。
 
 2.同意書數位化簽署APP : 使用Xamarin.Forms 開發簽暑APP。
 
-3.管理後台 : 使用ASP.NET WinForm開發管理者後台進行同意書資料管理、調閱、補上傳、列印。
+3.管理者後台 : 使用ASP.NET WinForm開發管理者後台進行同意書資料管理、調閱、補上傳、列印。
 
 四、專案成果:
 
